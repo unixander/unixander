@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-
 - 🐍 I'm senior developer at Positive Technologies
 - 👨‍💻 Most of the time I'm writing in Python. For my pet projects I use Go and JavaScript.
 - 📫 Open for the new opportunities. You can find my work history and contact me on [LinkedIn](https://linkedin.com/in/unixander)
+
 
 ### 👾 Info badges
 
